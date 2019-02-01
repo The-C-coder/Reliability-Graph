@@ -1,6 +1,6 @@
 /*The reliability of an electronic component*/
 #include<stdio.h>
-#define LAMBDA 0.001
+#define LAMBDA 00.001
 main()
 {
   double t;
